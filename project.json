@@ -1,0 +1,41 @@
+{
+  "id": 58,
+  "category": "game-companion",
+  "slug": "arc-raiders-expedition-notebook",
+  "target": "ARC Raiders",
+  "appid": "1808500",
+  "summaryRu": "Планировщик экспедиций и послесессионного учета ресурсов вручную.",
+  "features": [
+    "Expedition loadout sheets",
+    "Resource priority lists",
+    "Extraction review journal"
+  ],
+  "title": "RaidPack — ARC Raiders — Expeditions",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "steam-chart-presence",
+      "sourceId": "steam-chart-page",
+      "detail": "Present in the retrieved Steam most-played page; no universal popularity rank is inferred."
+    }
+  ],
+  "brand": "RaidPack",
+  "repositoryName": "raidpack-arc-raiders-expedition-notebook-expeditions",
+  "githubTopics": [
+    "arc-raiders",
+    "expedition-planning",
+    "loadout-checklist",
+    "session-review",
+    "game-companion",
+    "manual-planning",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "expeditions"
+}
